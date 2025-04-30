@@ -7,7 +7,7 @@
   "dependencies": {
     "react": "^22.0.0",
     "react-dom": "^22.0.0",
-    "react-scripts": "^5.0.0",
+    "react-scripts": "^4.0.0",
     "@react-three/fiber": "9.1.2",
     "three": "0.176.0",
     "styled-components": "6.1.17",
