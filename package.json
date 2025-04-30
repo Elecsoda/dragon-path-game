@@ -5,8 +5,8 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "react": "^22.0.0",
-    "react-dom": "^22.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "react-scripts": "^4.0.0",
     "@react-three/fiber": "9.1.2",
     "three": "0.176.0",
@@ -14,8 +14,8 @@
     "@react-three/drei": "10.0.7"
   },
   "devDependencies": {
-    "@types/react": "22.0.0",
-    "@types/react-dom": "22.0.0",
+    "@types/react": "18.0.0",
+    "@types/react-dom": "18.0.0",
     "loader-utils": "3.2.1",
     "typescript": "4.7.2"
   },
